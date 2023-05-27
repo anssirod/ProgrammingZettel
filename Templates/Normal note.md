@@ -1,4 +1,3 @@
-# {{title}}
 
 
 ---
@@ -9,4 +8,4 @@
 **Источники**: 
 - 
 
-`ID:` {{date:YYYYMMDD}}{{time:HHmm}}
+`Дата создания:` {{date:YYYYMMDD}}

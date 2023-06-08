@@ -1,8 +1,10 @@
-
+-
 
 ---
 ### Связанные заметки:
 - [[Flutter]]
+- [[BuildContext]]
+- [[Widget - Elemnt - RenderObecjt]]
 
 ---
 **Источники**: 
